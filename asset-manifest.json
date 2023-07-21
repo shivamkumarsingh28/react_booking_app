@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_booking_app/static/css/main.073c9b0a.css",
+    "main.js": "/react_booking_app/static/js/main.dd2cfb64.js",
+    "static/js/787.dca3c7cd.chunk.js": "/react_booking_app/static/js/787.dca3c7cd.chunk.js",
+    "static/media/logo.svg": "/react_booking_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_booking_app/index.html",
+    "main.073c9b0a.css.map": "/react_booking_app/static/css/main.073c9b0a.css.map",
+    "main.dd2cfb64.js.map": "/react_booking_app/static/js/main.dd2cfb64.js.map",
+    "787.dca3c7cd.chunk.js.map": "/react_booking_app/static/js/787.dca3c7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd2cfb64.js"
+  ]
+}
